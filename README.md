@@ -8,8 +8,8 @@ https://bitcoincore.org
 What is Bitcoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Zyll is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world, based on Bitcoin coding. Zyll uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
@@ -29,7 +29,7 @@ Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+regularly to indicate new official, stable release versions of Bitcoin Core, of which acts as the foundation of Zyll.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
